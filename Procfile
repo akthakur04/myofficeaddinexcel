@@ -1,1 +1,1 @@
-web: npm start
+web: office-addin-debugging start manifest.xml
