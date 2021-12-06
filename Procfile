@@ -1,2 +1,1 @@
-web: npm install office-addin-debugging
-web: npm start
+web: src\taskpane\taskpane.js
