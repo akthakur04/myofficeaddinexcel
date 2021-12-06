@@ -1,1 +1,1 @@
-web: office-addin-debuging start manifest.xml
+web: office-addin-debugging start manifest.xml
