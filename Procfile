@@ -1,1 +1,1 @@
-web: node taskpane.js
+web: office-addin-debugging start manifest.xml
