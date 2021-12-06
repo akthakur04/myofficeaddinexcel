@@ -1,1 +1,1 @@
-web: src/taskpane/taskpane.html
+web: npm start
