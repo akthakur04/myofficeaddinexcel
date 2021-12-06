@@ -1,1 +1,1 @@
-web: node src/taskpane/taskpane.js
+web: src/taskpane/taskpane.html
