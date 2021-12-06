@@ -1,1 +1,1 @@
-web: src\taskpane\taskpane.js
+web: office-addin-debuging start manifest.xml
