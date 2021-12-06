@@ -15,7 +15,7 @@
    
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development",
-    "heroku-prebuild":"npx install office-addin-dev-certs",
+    "heroku-prebuild":"npx office-addin-dev-certs install",
     "dev-server": "webpack serve --mode development",
     "lint": "office-addin-lint check",
     "lint:fix": "office-addin-lint fix",
