@@ -1,1 +1,1 @@
-web: node manifest.xml
+web: node src/taskpane/taskpane.js
